@@ -38,7 +38,6 @@ All diagrams are provided in **SVG** (fully editable), **PNG**, and **PDF** form
 
 ## 🎓 Perfect For
 - Neuroscience students  
-- Parkinson’s disease researchers  
 - Professors and lecturers  
 - Lab presentations  
 - Educational infographics  
