@@ -51,7 +51,3 @@ All diagrams are provided in **SVG** (fully editable), **PNG**, and **PDF** form
 Contributions are welcome — feel free to submit improvements, new diagrams, or alternate pathway styles.
 
 ---
-
-## 🔍 SEO Keywords
-basal ganglia diagram, direct pathway, indirect pathway, dopamine pathway SVG, Parkinson’s circuit, basal ganglia flowchart, substantia nigra diagram, Dipesh Pokharel Neuro
----
