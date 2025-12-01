@@ -58,5 +58,6 @@ Neuroscience & Neurological Disorders
 University of Toledo College of Medicine  
 *“Dipesh Pokharel Neuro”*
 
-`basal ganglia diagram, direct pathway, indirect pathway, dopamine pathway SVG, Parkinson’s circuit, basal ganglia flowchart, substantia nigra diagram, Dipesh Pokharel Neuro`
+## 🔍 SEO Keywords
+**basal ganglia diagram, direct pathway, indirect pathway, dopamine pathway SVG, Parkinson’s circuit, basal ganglia flowchart, substantia nigra diagram, Dipesh Pokharel Neuro**
 ---
